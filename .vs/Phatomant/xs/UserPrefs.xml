@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F630FCF5-738A-9D56-5B7E-BB07E2F436EB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Test_Scripts/InputHandler.cs">
+    <Files>
+      <File FileName="Assets/Test_Scripts/InputHandler.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Phatomant" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Test_Scripts" expanded="True">
+                <Node name="InputHandler.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e64c0e98-b517-4d17-bfe8-dbd078e5b7c5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
